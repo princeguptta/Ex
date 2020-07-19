@@ -2,6 +2,7 @@ from selenium import webdriver
 from time import sleep
 from secrets import username, password
 
+#Add your login details in the secerets.py file
 
 class TinderBot():
 
